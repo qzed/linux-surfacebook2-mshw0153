@@ -1,6 +1,6 @@
 # Linux Driver for Surface Book 2 dGPU Hot-Plug System
 
-_Warning: In the latest version, the name of the module and Arch Linux package has been changed to `surfacebook2_dgpu_hps` and `surfacebook2-dgpu-hps` respectively._
+_Note: This module is now integrated into https://github.com/qzed/linux-surfacegen5-acpi, thus this repository will be archived shortly._
 
 Allows powering on/off of the discrete GPU via sysfs.
 
